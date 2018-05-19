@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RecycleExample</string>
+    <string-array name="android_versions">
+        <item>কাপকেক</item>
+        <item>ডনাট</item>
+        <item>ইকলেয়াৰ্চ</item>
+        <item>ফ্ৰয়ো'অ</item>
+        <item>জিন্জাৰব্ৰেড</item>
+        <item>হানিকম্ব</item>
+        <item>আইচ ক্ৰিম সেন্দৱিচ</item>
+        <item>জেলি বীন</item>
+        <item>কিট কেট</item>
+        <item>ললিপ'প</item>
+        <item>মাৰ্চমেল'অ</item>
+        <item>নগাট</item>
+        <item>অৰিঅ</item>
+    </string-array>
+</resources>
